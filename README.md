@@ -1,4 +1,4 @@
-## Sourcetree를 연동하면서 배운 readMe 작성법!
+## Sourcetree를 연동하면서 배운 readMe 작성법
 
 
 1. 소스코드 블록 작성법
